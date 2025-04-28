@@ -1,0 +1,2 @@
+010342d515b62ee1c0e709254f4ef9ab  qt-everywhere-opensource-src-5.6.3.tar.xz
+f9e6cd1b6e336899369d26bf757d7457  qt-everywhere-opensource-src-5.6.3.zip

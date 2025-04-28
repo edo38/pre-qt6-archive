@@ -1,0 +1,14 @@
+51d01fc19702bf954d40141fd2db44a7  android-patches-5.6-2017_11_16.tar.gz
+594c4f25ba5e788e64874dc092135862  qt-opensource-linux-x64-5.6.3.run
+d215b836decd0e8d4c872ba0f6770c42  qt-opensource-linux-x64-android-5.6.3.run
+4f37965f7e6a0125b26228bec45bbf92  qt-opensource-mac-x64-android-5.6.3.dmg
+cc43a5b9288b051737b87c61d3d6e063  qt-opensource-mac-x64-android-ios-5.6.3.dmg
+6f62e6b2bdd8a9e973cdacf3de048869  qt-opensource-mac-x64-clang-5.6.3.dmg
+c78455e39f7bc0971e01d3834b3eb741  qt-opensource-windows-x86-android-5.6.3.exe
+78cfa7ccc842ec769b9f5bec9397d4be  qt-opensource-windows-x86-mingw492-5.6.3.exe
+a07af76895e7193cec0cb5f30f64ebd3  qt-opensource-windows-x86-msvc2013-5.6.3.exe
+99d991228270fa1fdafc6269ac649fb2  qt-opensource-windows-x86-msvc2013_64-5.6.3.exe
+2e390adc1c0b5db50a72c4bc141a3c45  qt-opensource-windows-x86-msvc2015-5.6.3.exe
+fbdcf2542a6c305f279ae29925c53bed  qt-opensource-windows-x86-msvc2015_64-5.6.3.exe
+b1a0df49334312912e49ab048d158e01  qt-opensource-windows-x86-winrt-msvc2013-5.6.3.exe
+65b43b001a6a3a3f47f634609d0d8db0  qt-opensource-windows-x86-winrt-msvc2015-5.6.3.exe
