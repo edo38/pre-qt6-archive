@@ -1,0 +1,3 @@
+20508774526e1e2c37cbdb607d3e490b  qt-opensource-linux-x64-5.12.12.run
+90e818433d44115201b157f602622cd4  qt-opensource-mac-x64-5.12.12.dmg
+601a12d7e6c5043b8d836179d127fb57  qt-opensource-windows-x86-5.12.12.exe
