@@ -1,0 +1,3 @@
+a7d95a18005d9fe1c88b5e7fae5ef771  qt-opensource-linux-x64-5.9.9.run
+e57f7ed8a7df6d222328b12ab54faaad  qt-opensource-mac-x64-5.9.9.dmg
+8a6e85980361c539267b2b44a56fe063  qt-opensource-windows-x86-5.9.9.exe
