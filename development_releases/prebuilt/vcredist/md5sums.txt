@@ -1,0 +1,18 @@
+4e465f8d9981d648695678e9b1638410  pyside_qt_deps_32_2019.7z
+c4175465bbf22f0453d759e71770cc4e  pyside_qt_deps_32.7z
+9be6c272264bc4c1f07d29c715bb73ed  pyside_qt_deps_64_2019.7z
+ff574478e267b29e6d77f15792d0298d  pyside_qt_deps_64.7z
+a1856bf39e0435714ac465f4e74478f9  vcredist_msvc2013_x64.7z
+fa1dc54256ff9c41b92ba75d21a0fcd7  vcredist_msvc2013_x86.7z
+5dc07a86a5624c8a3b63057fa9e6c90d  vcredist_msvc2015_x64.7z
+55c225f81d827ba9f0833e7ce25f6477  vcredist_msvc2015_x86.7z
+d7323be2698a842e7305eed3de8aa0ec  vcredist_msvc2017_x64.7z
+28284d88514e62694cc4886903c02ea4  vcredist_msvc2017_x86.7z
+eb6164f6435bd6e6c574a81f4e077f66  vcredist_msvc2019_x64.7z
+47af5db73cb3f2bd30f3f48e148d64f1  vcredist_msvc2019_x86.7z
+589abde989fee2280cbb4bdd603aa385  vcredist_x64.7z
+75874423599cd5ddb4f42cab2c801759  vcredist_x86.7z
+f8e41c34f4f7d1842bd70ec204154750  X64 Debuggers And Tools-x64_en-us-10.0.22621.755.7z
+d4d2d1ec40400f19761c987ea0b9c2c5  X64 Debuggers And Tools-x64_en-us.7z
+05ca89585eb94a2e5cda2562efbbe3e1  X86 Debuggers And Tools-x86_en-us-10.0.22621.755.7z
+81368f1f1d9952cf87b8222bffdc3406  X86 Debuggers And Tools-x86_en-us.7z
