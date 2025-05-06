@@ -1,0 +1,2 @@
+2a25d4e90abd05284bf5bb01365c9b44  qt-everywhere-opensource-src-5.15.16.tar.xz
+b04ea1b7b24f24bfeddf8efe784d93cc  qt-everywhere-opensource-src-5.15.16.zip
